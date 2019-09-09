@@ -22,12 +22,12 @@ Link to repository URL: https://github.com/example/test
 **DNS records needed**
 CNAME
 
-name: example.sutd.dev
+name: example.opensutd.org
 value: example.github.io
 
 ```
 # example
-name: example.sutd.dev
+name: example.opensutd.org
 value: example.github.io
 ```
 

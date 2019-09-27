@@ -9,4 +9,5 @@
 ## Active subdomains
 
 * SUTD Unfiltered - https://unfiltered.opensutd.org/
-
+* ISTD Minecraft Server - https://istdmc.opensutd.org/
+* Compute Resources - https://compute.opensutd.org/

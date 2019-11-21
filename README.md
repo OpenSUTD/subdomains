@@ -14,6 +14,7 @@
 * Compute Resources - https://compute.opensutd.org/
 * Course Planner - https://course-planner.opensutd.org/
 * Community Calendar - https://calendar.opensutd.org/
+* THIS SITE - https://subdomain.opensutd.org/
 
 ## Pillar Subdomains
 

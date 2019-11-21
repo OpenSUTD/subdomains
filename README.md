@@ -1,6 +1,6 @@
 # OpenSUTD Subdomain Management
 
-Welcome to the subdomains page!
+Welcome to the subdomains page! SUTD-related projects, please.
 
 ## Requesting for a Subdomain
 

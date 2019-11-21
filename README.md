@@ -12,3 +12,17 @@
 * ISTD Minecraft Server - https://istdmc.opensutd.org/
 * Workshops - https://workshops.opensutd.org/
 * Compute Resources - https://compute.opensutd.org/
+* Course Planner - https://course-planner.opensutd.org/
+* Community Calendar - https://calendar.opensutd.org/
+
+## Pillar Subdomains
+
+* EPD - https://epd.opensutd.org
+* ISTD - https://istd.opensutd.org
+* ESD - https://esd.opensutd.org
+
+## Fifth Row Subdomains
+
+* IEEE - http://ieee.opensutd.org/
+* SUTD Gunpla Club - https://gunpla.opensutd.org/
+* Greenprint - https://greenprint.opensutd.org/

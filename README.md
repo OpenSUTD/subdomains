@@ -10,22 +10,22 @@ Welcome to the subdomains page! SUTD-related projects, please.
 
 ## Active subdomains
 
-* SUTD Unfiltered - https://unfiltered.opensutd.org/
-* ISTD Minecraft Server - https://istdmc.opensutd.org/
-* Workshops - https://workshops.opensutd.org/
-* Compute Resources - https://compute.opensutd.org/
-* Course Planner - https://course-planner.opensutd.org/
-* Community Calendar - https://calendar.opensutd.org/
-* THIS SITE - https://subdomain.opensutd.org/
+* SUTD Unfiltered - [https://unfiltered.opensutd.org/]
+* ISTD Minecraft Server - [https://istdmc.opensutd.org/]
+* Workshops - [https://workshops.opensutd.org/]
+* Compute Resources - [https://compute.opensutd.org/]
+* Course Planner - [https://course-planner.opensutd.org/]
+* Community Calendar - [https://calendar.opensutd.org/]
+* THIS SITE - [https://subdomain.opensutd.org/]
 
 ## Pillar Subdomains
 
-* EPD - https://epd.opensutd.org
-* ISTD - https://istd.opensutd.org
-* ESD - https://esd.opensutd.org
+* EPD - [https://epd.opensutd.org]
+* ISTD - [https://istd.opensutd.org]
+* ESD - [https://esd.opensutd.org]
 
 ## Fifth Row Subdomains
 
-* IEEE - http://ieee.opensutd.org/
-* SUTD Gunpla Club - https://gunpla.opensutd.org/
-* Greenprint - https://greenprint.opensutd.org/
+* IEEE - [http://ieee.opensutd.org/]
+* SUTD Gunpla Club - [https://gunpla.opensutd.org/]
+* Greenprint - [https://greenprint.opensutd.org/]

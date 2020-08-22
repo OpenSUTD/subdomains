@@ -16,6 +16,7 @@ Welcome to the subdomains page! SUTD-related projects, please.
 * Compute Resources - [compute](https://compute.opensutd.org/)
 * Course Planner - [course-planner](https://course-planner.opensutd.org/)
 * Community Calendar - [calendar](https://calendar.opensutd.org/)
+* Heidigger's Question Concerning Technology (A student project!) - [qct](https://qct.opensutd.org/)
 * THIS SITE - [subdomain](https://subdomain.opensutd.org/)
 
 ## Pillar Subdomains

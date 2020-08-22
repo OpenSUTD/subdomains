@@ -29,3 +29,4 @@ Welcome to the subdomains page! SUTD-related projects, please.
 * IEEE - [IEEE](http://ieee.opensutd.org/)
 * SUTD Gunpla Club - [gunpla](https://gunpla.opensutd.org/)
 * Greenprint - [greenprint](https://greenprint.opensutd.org/)
+* SUTD Volleyball - [sutdvolleyball](https://sutdvolleyball.opensutd.org) (pending)

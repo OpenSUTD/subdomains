@@ -8,7 +8,7 @@ Welcome to the subdomains page! SUTD-related projects, please.
 2. Fill in with the requested info
 3. A maintainer will respond to your request
 
-## Active subdomains
+## Misc subdomains
 
 * SUTD Unfiltered - [unfiltered](https://unfiltered.opensutd.org/)
 * ISTD Minecraft Server - [istdmc](https://istdmc.opensutd.org/)
@@ -29,4 +29,5 @@ Welcome to the subdomains page! SUTD-related projects, please.
 * IEEE - [IEEE](http://ieee.opensutd.org/)
 * SUTD Gunpla Club - [gunpla](https://gunpla.opensutd.org/)
 * Greenprint - [greenprint](https://greenprint.opensutd.org/)
-* SUTD Volleyball - [sutdvolleyball](https://sutdvolleyball.opensutd.org) (pending)
+* SUTD Volleyball - [sutdvolleyball](https://sutdvolleyball.opensutd.org)
+* SUTDio - [sutdio](https://sutdio.opensutd.org/)

@@ -27,8 +27,10 @@ Welcome to the subdomains page! SUTD-related projects, please.
 
 ## Fifth Row Subdomains
 
-* IEEE - [IEEE](http://ieee.opensutd.org/)
-* SUTD Gunpla Club - [gunpla](https://gunpla.opensutd.org/)
+* Digital Design & Development Club - [3DC](https://3dc.opensutd.org/)
 * Greenprint - [greenprint](https://greenprint.opensutd.org/)
-* SUTD Volleyball - [sutdvolleyball](https://sutdvolleyball.opensutd.org)
+* IEEE - [IEEE](http://ieee.opensutd.org/)
 * SUTDio - [sutdio](https://sutdio.opensutd.org/)
+* SUTD Gunpla Club - [gunpla](https://gunpla.opensutd.org/)
+* SUTD Organisation of Autonomous Robotics - [SOAR](https://soar.opensutd.org/) 
+* SUTD Volleyball - [sutdvolleyball](https://sutdvolleyball.opensutd.org)
